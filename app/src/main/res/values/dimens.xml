@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="space_xsmall">2dp</dimen>
+    <dimen name="space_small">4dp</dimen>
+    <dimen name="space_medium">8dp</dimen>
+    <dimen name="space_large">12dp</dimen>
+    <dimen name="space_xlarge">16dp</dimen>
+    <dimen name="space_xxlarge">20dp</dimen>
+    <dimen name="space_xxxlarge">24dp</dimen>
+    <dimen name="space_xxxxlarge">28dp</dimen>
+    <dimen name="space_xxxxxlarge">32dp</dimen>
+
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_default">14sp</dimen>
+    <dimen name="text_title">16sp</dimen>
+</resources>
